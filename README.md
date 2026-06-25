@@ -28,7 +28,7 @@ o	Democratic Republic of Congo, Mali, Burkina Faso
 •	Southern Africa remains comparatively stable with consistently low fatality levels. 
 •	Conflict severity varies across scales, with some countries remaining hotspots at both national and regional levels. 
 
-<p align="center">  <img src="figures/"top_1o_countries.png" width="750"></p>
+<img src="figures/top_1o_countries.png" width="800">
 
 3. Spatial Distribution of Fatalities with Elevation Context (SRTM)
 This section integrates elevation data derived from NASA SRTM DEM with conflict fatalities to examine terrain-related patterns.
