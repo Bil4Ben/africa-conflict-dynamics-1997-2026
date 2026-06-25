@@ -1,4 +1,4 @@
-# Conflict Dynamics in Africa (1997–2026)
+## Conflict Dynamics in Africa (1997–2026)
 ## Project Overview
 This project investigates the spatial and temporal dynamics of conflict across Africa from 1997 to 2026. The analysis focuses on conflict events and fatalities, examining their distribution across time, geography, and elevation. The study integrates temporal trend analysis with geospatial methods to identify conflict hotspots and explore potential environmental influences on conflict patterns.
 The dataset has also been enriched with elevation data derived from NASA’s SRTM Digital Elevation Model (DEM), enabling analysis of terrain influences on conflict intensity.
