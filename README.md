@@ -16,8 +16,8 @@ The dataset has also been enriched with elevation data derived from NASA’s SRT
 3.	Expansion Phase (2007–2013): Gradual increase in conflict events 
 4.	Escalation Phase (2014–2025): Sustained growth in both fatalities and events
 
-<p align="center"><img src="figures/Conflict_by_year.png" width="1000" height="700"></p>   
-<p align="center"><img src="figures/top_10_countries.png" width="1000" height="400"></p>
+<p align="center"><img src="figures/Conflict_by_year.png" width="900" height="700"></p>   
+<p align="center"><img src="figures/top_10_countries.png" width="700" height="400"></p>
 
 2. **Spatial Distribution of Conflict Fatalities**
 Conflict fatalities are highly unevenly distributed across Africa, with a small number of countries accounting for a large proportion of total deaths.
