@@ -196,7 +196,7 @@ These results indicate that elections may elevate political tensions and increas
 The estimated increase in fatalities is small and not statistically significant, indicating that election periods do not systematically increase the lethality of conflict.
 
 ---
-
+<p align="center"><img src="figures/election_fixed_effects_results.png" width="900" height="700"></p>   
 ## Limitations
 
 - The analysis estimates associations rather than definitive causal effects.
