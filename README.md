@@ -233,7 +233,13 @@ README.md
 * Election impact assessment on conflict events and fatalities
 
 ---
+**Citation**
 
+@misc{MarxPonsRollet2025NationalElections,
+	author = {Benjamin Marx and Vincent Pons and Vincent Rollet},
+	title = {National Elections Database (Version 2.0)},
+	year = {2025},
+	url = {http://nationalelectionsdatabase.com}}
 ## Future Work
 
 Planned extensions include examining whether conflict dynamics differ according to:
